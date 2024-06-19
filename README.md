@@ -1,4 +1,4 @@
-# Hi there 👋
+### Hi there 👋
 ## I'm Jakub, a Javascript frontend developer from Poland 🇵🇱
 <!--
 **Blezix/Blezix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
