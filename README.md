@@ -3,7 +3,6 @@
 ### Hi there 👋
 ## I'm Jakub, a Javascript frontend developer from Poland 🇵🇱
 
-- 🔭 I’m currently working on **[StoreNextJs](https://github.com/Blezix/StoreNextJs)**
 <!--
 **Blezix/Blezix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
